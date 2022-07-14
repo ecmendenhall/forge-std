@@ -1,0 +1,19 @@
+{
+  "name": "@ecmendenhall/forge-std",
+  "version": "0.0.1",
+  "description": "Unofficial NPM distribution of Forge Standard Library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecmendenhall/forge-std.git"
+  },
+  "keywords": [
+    "forge",
+    "foundry",
+    "solidity"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecmendenhall/forge-std/issues"
+  },
+  "homepage": "https://github.com/ecmendenhall/forge-std#readme"
+}
